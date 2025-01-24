@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include "lib/funciones.h" // Biblioteca de funciones personalizada.
+#include "funciones.h" // Biblioteca de funciones personalizada.
 
 // Definir macros para generar las matrices de verdad según el número de variables.
 #define MATRIX2 (int[4][2]){ \
